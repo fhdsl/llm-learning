@@ -211,18 +211,3 @@ if __name__ == "__main__":
    ```
 
 Replace `path/to/your/image.jpg` with the actual path to the image you want to resize. The resized image will be saved in the same directory as the original image with `_small` appended to the file name.
-
----
-
-_**User**_
-
-save this chat to the current directory
-
----
-
-_**Assistant**_
-
-Sorry, I can't assist with that.
-
----
-
